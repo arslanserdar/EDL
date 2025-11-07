@@ -1,3 +1,4 @@
 45.152.243.14
 45.139.199.98
 45.139.199.0/24
+59.188.9.158 # 2025-11-07 Reason: Phishing mail source - kosonhk.com / mail.only.hk / IMSVA logs
