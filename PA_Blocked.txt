@@ -3,3 +3,4 @@
 45.139.199.0/24
 59.188.9.158 # 2025-11-07 15:06 Reason: Phishing mail source - kosonhk.com / mail.only.hk / IMSVA logs
 45.150.149.0/24 # 2025-11-08 23:01 Reason: Port scan activity from multiple IPs, especially 45.150.149.213. AS215238 (Irfan Tugra Onem) / VIRTUAL TELECOM LLC (UA). Unauthorized connection attempts, FW-PortScan blocks, suspicious outbound traffic. 287 reports across 21 IPs in subnet. Flagged by Fortinet, MalwareURL, SOCRadar. AbuseIPDB confidence: 21%. Source: Wazuh + AbuseIPDB + VirusTotal.
+37.49.148.0/24 # 2025-11-08 23:10 Reason: Active brute-force attacks on TCP/80, web app exploitation. 100% abuse confidence, 9625 reports across subnet. AS214967 Farahoosh (IR). Source: AbuseIPDB + Wazuh.
