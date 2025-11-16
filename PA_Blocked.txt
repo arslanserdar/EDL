@@ -8,3 +8,4 @@
 78.135.107.0/24 # 2025-11-09 00:30 Reason: (78.135.107.199) Multiple active threats from subnet. 1992 reports. Web app attacks, admin panel/robots.txt scanning, port scans. AS211859 Cesrey Bilisim (TR). Source: AbuseIPDB + Wazuh.
 78.153.140.0/24 # 2025-11-12 13:06 Reason: (78.153.140.176) CRITICAL — Active high-volume web-app probing (/.env, /admin/config.php), port scans (2525,3306,80,443) & brute-force. 40,436 reports, 100% abuse confidence. AS202306 (Hostglobal.plus). Source: AbuseIPDB + Wazuh + VT
 99.198.109.0/24 # 2025-11-12 15:06 Reason: (99.198.109.69) Phishing mail source frederic.schley@zmenterprises.net - horizoniq.com / radar.superdnssite.com / IMSVA logs
+92.60.40.0/24 # 2025-11-16 16:06 Reason: (92.60.40.208) Repeated VPN auth-fail on AUTH_SEQ (unknown user: madebycat.user), unauthorized remote-access attempts. Historic port scans & bad-user-agents activity. 64 reports (AbuseIPDB, AS43357 Mullvad VPN).
