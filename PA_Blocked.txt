@@ -11,3 +11,4 @@
 92.60.40.0/24 # 2025-11-16 16:06 Reason: (92.60.40.208) Repeated VPN auth-fail on AUTH_SEQ (unknown user: madebycat.user), unauthorized remote-access attempts. Historic port scans & bad-user-agents activity. 64 reports (AbuseIPDB, AS43357 Mullvad VPN).
 159.65.156.0/24 # 2025-11-16 23:50 Reason: (159.65.156.239) SQL Injection - Bad Web Bot - Web App Attack  CRITICAL — Active attacker. 512 abuse reports, 100% confidence. Web-app probing, SQLi, RDP brute-force, SSH scanning. Palo Alto logs show live unauthorized WAN→443 attempts flagged as mqtt-base exploit behavior.
 191.37.224.0/24 # 2025-11-17 00:08 Reason: (191.37.224.196) CRITICAL — High-volume SSH brute-force, aggressive port scans (22/80/443), repeated exploit probes. 3,481 abuse reports across subnet, 100% confidence. AS264396 (BRAZIL) residential/Dynamic IP range actively used for automated attacks (Proxy).
+54.38.218.0/24
